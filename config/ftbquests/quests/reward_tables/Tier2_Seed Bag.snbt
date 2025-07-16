@@ -1,0 +1,59 @@
+{
+	id: "21B1896C13F84C09"
+	loot_size: 1
+	order_index: 21
+	rewards: [
+		{ item: "mysticalagriculture:nether_seeds", weight: 2.0f }
+		{ item: "mysticalagriculture:nature_seeds", weight: 2.0f }
+		{ item: "mysticalagriculture:honey_seeds", weight: 2.0f }
+		{ item: "mysticalagriculture:coral_seeds", weight: 2.0f }
+		{ item: "mysticalagriculture:dye_seeds", weight: 2.0f }
+		{ item: "mysticalagriculture:coal_seeds", weight: 2.0f }
+		{
+			item: {
+				count: 1
+				id: "mysticalagriculture:kivi_seeds"
+			}
+			weight: 2.0f
+		}
+		{ item: "mysticalagriculture:silicon_seeds", weight: 2.0f }
+		{ item: "mysticalagriculture:amethyst_seeds", weight: 2.0f }
+		{ item: "mysticalagriculture:sulfur_seeds", weight: 2.0f }
+		{ item: "mysticalagriculture:aluminum_seeds", weight: 2.0f }
+		{ item: "mysticalagriculture:menril_seeds", weight: 2.0f }
+		{ item: "mysticalagriculture:prudentium_block", random_bonus: 1, weight: 3.0f }
+		{
+			count: 4
+			random_bonus: 4
+			weight: 5.0f
+		}
+		{ item: "mysticalagriculture:prudentium_farmland", weight: 5.0f }
+		{ item: "mysticalagriculture:prudentium_ingot", random_bonus: 2, weight: 6.0f }
+		{ item: "mysticalagriculture:prudentium_gemstone", random_bonus: 1, weight: 4.0f }
+		{ item: "mysticalagriculture:prudentium_growth_accelerator", random_bonus: 2, weight: 3.0f }
+		{ item: "mysticalagriculture:pig_seeds", weight: 2.0f }
+		{ item: "mysticalagriculture:cow_seeds", weight: 2.0f }
+		{ item: "mysticalagriculture:sheep_seeds", weight: 2.0f }
+		{ item: "mysticalagriculture:chicken_seeds", weight: 2.0f }
+		{ item: "mysticalagriculture:slime_seeds", random_bonus: 2, weight: 2.0f }
+		{
+			item: {
+				count: 1
+				id: "mysticalagriculture:armadillo_seeds"
+			}
+			weight: 2.0f
+		}
+		{ item: "mysticalagriculture:turtle_seeds", weight: 2.0f }
+		{ item: "mysticalagriculture:squid_seeds", weight: 2.0f }
+		{ item: "mysticalagriculture:fish_seeds", weight: 2.0f }
+		{
+			item: {
+				count: 1
+				id: "mysticalagriculture:unexplored_wood_seeds"
+			}
+			weight: 2.0f
+		}
+		{ item: "mysticalagriculture:grains_of_infinity_seeds", weight: 2.0f }
+	]
+	use_title: true
+}

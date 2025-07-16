@@ -1,0 +1,59 @@
+{
+	id: "1EC6956FA2BB2B00"
+	loot_size: 1
+	order_index: 31
+	rewards: [
+		{
+			count: 3
+			random_bonus: 2
+			weight: 1.5f
+		}
+		{
+			count: 3
+			random_bonus: 2
+			weight: 1.5f
+		}
+		{
+			count: 2
+			random_bonus: 1
+			weight: 0.75f
+		}
+		{
+			count: 2
+			random_bonus: 1
+			weight: 1.5f
+		}
+		{
+			count: 2
+			random_bonus: 1
+			weight: 1.5f
+		}
+		{
+			count: 2
+			random_bonus: 1
+		}
+		{ item: "minecraft:chest_minecart" }
+		{ item: "minecraft:hopper", random_bonus: 1, weight: 1.5f }
+		{
+			item: {
+				Count: 1
+				id: "sophisticatedstorage:packing_tape"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				count: 1
+				id: "trashcans:item_trash_can"
+			}
+		}
+		{ item: "minecraft:oak_chest_boat" }
+		{
+			count: 2
+			random_bonus: 1
+			weight: 1.5f
+		}
+	]
+}

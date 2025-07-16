@@ -1,0 +1,76 @@
+
+[waila]
+
+	#You can disable specific modules in the WAILA config.
+	[waila.pokemon]
+		#Valid TooltipTypes: TITLE, TITLE_GENDER, SPECIES, LEVEL, GENDER, HEALTH, TRAINER, NICKNAME, FRIENDSHIP, TYPES, REWARD_EVS, NATURE, ABILITY, IVS, EVS, DEX_ENTRY, SNEAK_HINT, BATTLE_HINT, EGG_GROUPS
+		pokemonTooltips = ["TITLE_GENDER:SHOW", "HEALTH:SHOW", "TRAINER:SHOW", "TYPES:SHOW", "REWARD_EVS:SHOW", "SNEAK_HINT:NO_SNEAK", "FRIENDSHIP:SNEAK", "NATURE:SNEAK", "ABILITY:SNEAK", "IVS:SNEAK", "EVS:SNEAK", "DEX_ENTRY:SNEAK"]
+
+	[waila.misc]
+		#Hide the Pokemon label/nametag completely.
+		hidePokemonLabel = false
+
+[toughasnails]
+
+	[toughasnails.temperature]
+		#Should any Pokemon affect the player's temperature.
+		pokemonAffectsTemperature = true
+		#Should wild Pokemon affect the player's temperature.
+		wildAffectsTemperature = true
+		#Should wild Pokemon be able to put players into temperature extremes.
+		wildCausesHarm = true
+		#Should captured Pokemon affect the player's temperature.
+		capturedAffectsTemperature = true
+		#Should captured Pokemon be able to put their owner into temperature extremes.
+		capturedCausesHarm = false
+		#Should captured Pokemon be able to put other players into temperature extremes.
+		capturedCausesHarmOther = false
+
+		[toughasnails.temperature.range]
+			#Base range for Pokemon to affect the player's temperature.
+			#Range: 0.0 ~ 255.0
+			temperatureRange = 5.0
+			#Range increase per level for Pokemon to affect the player's temperature.
+			#Range: 0.0 ~ 255.0
+			temperatureRangePerLevel = 0.0
+
+		[toughasnails.temperature.strength]
+			#Should the Pokemon's secondary type have half-effectiveness.
+			secondaryTypeHalfStrength = true
+			#Base strength for Pokemon to affect the player's temperature.
+			#Range: 0.0 ~ 4.0
+			temperatureStrength = 2.0
+			#Strength increase per level for Pokemon to affect the player's temperature.
+			#Range: 0.0 ~ 1.0
+			temperatureStrengthPerLevel = 0.0
+
+	[toughasnails.hydration]
+		#Should any Pokemon give the player water.
+		pokemonGiveWater = true
+		#Should Pokemon need to have Water as their primary type to give water.
+		requirePrimaryType = false
+		#Can Pokemon fill bottles.
+		fillBottle = true
+		#Can Pokemon fill canteens.
+		fillCanteen = true
+
+		[toughasnails.hydration.level]
+			#Minimum level for dirty water.
+			#Range: 0 ~ 255
+			minLevelForDirty = 0
+			#Minimum level for normal water.
+			#Range: 0 ~ 255
+			minLevelForNormal = 25
+			#Minimum level for purified water.
+			#Range: 0 ~ 255
+			minLevelForPurified = 50
+
+[waystones]
+	#Allow Pokemon to be used for Waystone teleportation.
+	allowWaystoneTeleport = true
+	#Does the Pokemon need to have Teleport accessible. If false, any psychic type can teleport.
+	requireTeleportMove = true
+	#Minimum level to Teleport.
+	#Range: 0 ~ 255
+	waystoneMinTeleportLevel = 0
+

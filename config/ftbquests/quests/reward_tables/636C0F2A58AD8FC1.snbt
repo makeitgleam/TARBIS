@@ -1,0 +1,31 @@
+{
+	id: "636C0F2A58AD8FC1"
+	loot_size: 1
+	order_index: 22
+	rewards: [
+		{
+			count: 5
+			random_bonus: 5
+		}
+		{
+			count: 5
+			random_bonus: 5
+		}
+		{ item: "mysticalagriculture:prosperity_seed_base", random_bonus: 1 }
+		{
+			count: 2
+			random_bonus: 1
+		}
+		{ item: "mysticalagriculture:watering_can", weight: 0.5f }
+		{
+			count: 3
+			random_bonus: 2
+		}
+		{ item: "mysticalagriculture:mystical_fertilizer", random_bonus: 1 }
+		{ item: "mysticalagriculture:machine_frame" }
+		{ item: "mysticalagriculture:prudentium_essence" }
+		{ item: "mysticalagriculture:wand" }
+		{ item: "mysticalagriculture:unattuned_augment" }
+	]
+	use_title: true
+}

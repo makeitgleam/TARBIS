@@ -1,0 +1,24 @@
+{
+	id: "617F6D802ED0FD00"
+	loot_size: 1
+	order_index: 12
+	rewards: [
+		{
+			item: {
+				count: 1
+				id: "powah:thermo_generator_spirited"
+			}
+		}
+		{ item: "mekanism:elite_energy_cube" }
+		{ item: "functionalstorage:netherite_upgrade", random_bonus: 1, weight: 2.0f }
+		{ item: "pipez:ultimate_upgrade", random_bonus: 2, weight: 2.0f }
+		{ item: "mekanism:ultimate_tier_installer" }
+		{ item: "ironfurnaces:netherite_furnace" }
+		{ item: "mekanism:quantum_entangloporter" }
+		{
+			type: "xp_levels"
+			xp_levels: 30
+		}
+	]
+	use_title: true
+}

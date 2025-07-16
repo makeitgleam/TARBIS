@@ -1,0 +1,49 @@
+{
+	id: "1AE4A39086CA5564"
+	loot_size: 1
+	order_index: 24
+	rewards: [
+		{ item: "mysticalagriculture:imperium_farmland", weight: 3.0f }
+		{ item: "mysticalagriculture:nickel_seeds" }
+		{ item: "mysticalagriculture:uranium_seeds" }
+		{ item: "mysticalagriculture:soulium_seeds" }
+		{ item: "mysticalagriculture:lapis_lazuli_seeds" }
+		{ item: "mysticalagriculture:gold_seeds" }
+		{ item: "mysticalagriculture:end_seeds" }
+		{ item: "mysticalagriculture:electrum_seeds" }
+		{ item: "mysticalagriculture:constantan_seeds" }
+		{ item: "mysticalagriculture:compressed_iron_seeds" }
+		{ item: "mysticalagriculture:invar_seeds" }
+		{ item: "mysticalagriculture:osmium_seeds" }
+		{ item: "mysticalagriculture:fluix_seeds" }
+		{ item: "mysticalagriculture:refined_obsidian_seeds" }
+		{ item: "mysticalagriculture:refined_glowstone_seeds" }
+		{ item: "mysticalagriculture:peridot_seeds" }
+		{ item: "mysticalagriculture:ruby_seeds" }
+		{ item: "mysticalagriculture:sapphire_seeds" }
+		{ item: "mysticalagriculture:fluorite_seeds" }
+		{ item: "mysticalagriculture:energized_steel_seeds" }
+		{ item: "mysticalagriculture:blazing_crystal_seeds" }
+		{ item: "mysticalagriculture:enderman_seeds" }
+		{ item: "mysticalagriculture:blaze_seeds" }
+		{ item: "mysticalagriculture:ghast_seeds" }
+		{
+			item: {
+				count: 1
+				id: "mysticalagriculture:breeze_seeds"
+			}
+		}
+		{ item: "mysticalagriculture:experience_seeds" }
+		{ item: "mysticalagradditions:imperium_coal", random_bonus: 2, weight: 3.0f }
+		{ item: "mysticalagradditions:imperium_apple", weight: 2.0f }
+		{ item: "mysticalagriculture:imperium_ingot", weight: 3.0f }
+		{ item: "mysticalagriculture:imperium_gemstone", weight: 2.0f }
+		{
+			count: 2
+			random_bonus: 1
+			weight: 3.0f
+		}
+		{ item: "mysticalagriculture:imperium_block" }
+	]
+	use_title: true
+}

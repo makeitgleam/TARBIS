@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "tulipsaredead",
+      "uniqueId": "381eb984-c029-4261-b9c0-c5d466b63493"
+    },
+    "time": 1752610081126,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/UE1GAAQMMi"
+    }
+  }
+]

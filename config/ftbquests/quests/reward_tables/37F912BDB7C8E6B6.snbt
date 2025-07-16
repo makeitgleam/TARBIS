@@ -1,0 +1,18 @@
+{
+	id: "37F912BDB7C8E6B6"
+	loot_size: 1
+	order_index: 32
+	rewards: [
+		{ item: "functionalstorage:oak_1" }
+		{ item: "functionalstorage:spruce_1" }
+		{ item: "functionalstorage:birch_1" }
+		{ item: "functionalstorage:jungle_1" }
+		{ item: "functionalstorage:acacia_1" }
+		{ item: "functionalstorage:dark_oak_1" }
+		{ item: "functionalstorage:crimson_1" }
+		{ item: "functionalstorage:warped_1" }
+		{ item: "functionalstorage:mangrove_1" }
+		{ item: "functionalstorage:cherry_1" }
+	]
+	use_title: true
+}

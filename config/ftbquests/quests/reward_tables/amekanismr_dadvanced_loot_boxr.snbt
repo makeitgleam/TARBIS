@@ -1,0 +1,98 @@
+{
+	id: "74164DBBE7919A3B"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		glow: 1b
+		string_id: "mekanism_advanced_loot_box"
+	}
+	loot_size: 1
+	order_index: 16
+	rewards: [
+		{
+			count: 4
+			random_bonus: 4
+			weight: 100.0f
+		}
+		{ item: "alltheores:steel_block", random_bonus: 1, weight: 75.0f }
+		{ item: "mekanism:steel_casing", random_bonus: 3, weight: 50.0f }
+		{
+			count: 16
+			random_bonus: 16
+			weight: 50.0f
+		}
+		{ item: "mekanism:basic_induction_cell", weight: 50.0f }
+		{ item: "mekanism:basic_induction_provider", weight: 50.0f }
+		{ item: "mekanism:pellet_polonium" }
+		{ item: "mekanism:pellet_plutonium", random_bonus: 2, weight: 5.0f }
+		{
+			count: 4
+			random_bonus: 12
+			weight: 100.0f
+		}
+		{
+			count: 4
+			random_bonus: 12
+			weight: 50.0f
+		}
+		{
+			count: 4
+			random_bonus: 12
+			weight: 25.0f
+		}
+		{ item: "alltheores:uranium_block", random_bonus: 2, weight: 50.0f }
+		{
+			count: 4
+			random_bonus: 4
+			weight: 75.0f
+		}
+		{
+			count: 4
+			random_bonus: 4
+			weight: 75.0f
+		}
+		{ item: "mekanism:advanced_tier_installer", random_bonus: 1, weight: 50.0f }
+		{ item: "mekanism:elite_tier_installer", weight: 50.0f }
+		{ item: "mekanism:ultimate_tier_installer", weight: 25.0f }
+		{
+			count: 2
+			random_bonus: 2
+			weight: 75.0f
+		}
+		{ item: "mekanism:alloy_atomic", random_bonus: 2, weight: 50.0f }
+		{
+			count: 2
+			random_bonus: 3
+			weight: 10.0f
+		}
+		{
+			count: 4
+			random_bonus: 12
+			weight: 50.0f
+		}
+		{ item: "mekanism:quantum_entangloporter", weight: 25.0f }
+		{ item: "mekanism:elite_energy_cube", weight: 10.0f }
+		{ item: "mekanism:ultimate_energy_cube", weight: 5.0f }
+		{
+			count: 4
+			random_bonus: 4
+			weight: 50.0f
+		}
+		{
+			count: 4
+			random_bonus: 4
+			weight: 50.0f
+		}
+		{
+			count: 4
+			random_bonus: 4
+			weight: 50.0f
+		}
+		{ item: "mekanismgenerators:advanced_solar_generator", random_bonus: 2, weight: 50.0f }
+	]
+	use_title: true
+}

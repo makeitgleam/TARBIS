@@ -1,0 +1,27 @@
+
+[common]
+	#The cooldown time for the vortex manipulator in seconds.
+	#Range: 1 ~ 60
+	vortexManipulatorCooldown = 10
+	#The range of the TARDIS life support in blocks.
+	#Range: 1 ~ 100
+	tardisLifeSupportRange = 3
+	#The range of the gravity field in blocks.
+	#Range: 1 ~ 100
+	gravityFieldRange = 8
+	#The range of the oxygen field in blocks.
+	#Range: 1 ~ 100
+	oxygenFieldRange = 8
+	#The range of the telepathic circuit in blocks.
+	#Range: 1 ~ 10000
+	telepathicCircuitRange = 5000
+	#Should the Dalek gun stick destroy doors?
+	shouldDalekGunStickDestroyDoors = true
+	#Should Cybermats spawn around Cybermen?
+	shouldCybermatSpawnAroundCybermen = true
+	#The minimum number of TARDISes required to create a time fissure.
+	#Range: 1 ~ 100
+	minimumTardisesToCreateTimeFissure = 5
+	#Should the sonic engine be enabled? This will add additional functionality to Tardis Refined and Doctor Who Deco sonic screwdrivers.
+	enableSonicEngine = true
+

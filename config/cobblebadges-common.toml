@@ -1,0 +1,13 @@
+
+["Common Configs for CobbleBadges"]
+	#Does kill count for type badges increase when killing wild pokemons
+	"Does Kill Count Increase" = true
+	#Number of kills to obtain normal type badges (! Must be lower than Great !)
+	"Kill Count Normal" = 100
+	#Number of kills to obtain great type badges (! Must be higher than Normal & lower than Ultra !)
+	"Kill Count Great" = 250
+	#Number of kills to obtain ultra type badges (! Must be higher than Great & lower than Master !)
+	"Kill Count Ultra" = 500
+	#Number of kills to obtain master type badges (! Must be higher than Ultra !)
+	"Kill Count Master" = 1000
+

@@ -1,0 +1,65 @@
+{
+	id: "3A3BDBA4E9AD13C4"
+	loot_size: 1
+	order_index: 9
+	rewards: [
+		{ item: "pipez:advanced_upgrade", random_bonus: 1, weight: 3.0f }
+		{
+			count: 8
+			random_bonus: 16
+			weight: 10.0f
+		}
+		{ item: "mekanism:advanced_tier_installer" }
+		{ item: "mekanism:basic_energy_cube", weight: 3.0f }
+		{ item: "mekanismgenerators:wind_generator", weight: 5.0f }
+		{ item: "minecraft:netherite_ingot" }
+		{ item: "functionalstorage:gold_upgrade", weight: 2.0f }
+		{
+			count: 3
+			random_bonus: 3
+			weight: 10.0f
+		}
+		{ count: 8, item: "minecraft:diamond", random_bonus: 8, weight: 20.0f }
+		{ count: 4, item: "minecraft:diamond", random_bonus: 4, weight: 15.0f }
+		{ count: 16, item: "minecraft:diamond", random_bonus: 8, weight: 20.0f }
+		{ item: "minecraft:iron_block", weight: 15.0f }
+		{ item: "minecraft:diamond_block", weight: 10.0f }
+		{ item: "minecraft:gold_block", weight: 12.0f }
+		{ item: "minecraft:redstone_block", random_bonus: 2, weight: 20.0f }
+		{ item: "minecraft:emerald_block", weight: 10.0f }
+		{ item: "minecraft:netherite_scrap", random_bonus: 1, weight: 5.0f }
+		{ item: "minecraft:netherite_ingot" }
+		{ item: "minecraft:lava_bucket", weight: 5.0f }
+		{ item: "mekanismgenerators:wind_generator", weight: 10.0f }
+		{ item: "mekanismgenerators:gas_burning_generator", weight: 5.0f }
+		{ item: "functionalstorage:compacting_drawer", weight: 10.0f }
+		{ item: "functionalstorage:storage_controller", weight: 3.0f }
+		{
+			count: 4
+			random_bonus: 4
+			weight: 10.0f
+		}
+		{ item: "minecraft:ender_eye", random_bonus: 2, weight: 5.0f }
+		{
+			count: 4
+			random_bonus: 4
+			weight: 10.0f
+		}
+		{
+			count: 4
+			random_bonus: 8
+			weight: 15.0f
+		}
+		{
+			count: 4
+			random_bonus: 4
+			weight: 10.0f
+		}
+		{ item: "functionalstorage:void_upgrade", random_bonus: 2, weight: 10.0f }
+		{ item: "minecraft:saddle", weight: 5.0f }
+		{ item: "minecraft:name_tag", weight: 5.0f }
+		{ item: "ironfurnaces:gold_furnace", weight: 3.0f }
+		{ item: "minecraft:wither_skeleton_skull", weight: 10.0f }
+	]
+	use_title: true
+}

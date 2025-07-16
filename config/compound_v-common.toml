@@ -1,0 +1,59 @@
+#Whether to add Temp V to Buried Treasure Chests
+add_to_buried_treasure = true
+#Whether to add Compound V to Ancient City Chests
+add_v_to_ancient_cities = true
+#Whether to add Temp V to Ancient City Chests
+add_temp_v_to_ancient_cities = true
+#Whether to add Temp V to Piglin Bastion Chests
+add_to_bastions = true
+#Whether to add Compound V and Temp V to End Cities
+add_to_end_cities = true
+#Whether the Wandering Trader can rarely sell Temp V
+temp_v_from_trader = true
+#Duration (in ticks) of Temp V's effects
+#Range: > 0
+tempVDuration = 24000
+#Chance of getting a bad outcome when taking Compound V (Setting this to 0 will disable it)
+#Range: 0.0 ~ 1.0
+badReactionChance = 0.1
+#Whether Temp V can give negative outcomes
+tempVBadReaction = false
+#Damage multiplier of damage taken while on Compound V
+#Range: 0.0 ~ 1.0
+damageReduction = 0.75
+#Damage multiplier of damage dealt while on Compound V
+#Range: 0.0 ~ 1.7976931348623157E308
+strengthMultiplier = 1.2
+#Knockback multiplier of knockback taken while on Compound V
+#Range: 0.0 ~ 1.0
+knockbackReduction = 0.8
+#Weight of obtaining Generic effect (No extra abilities) when taking Compound V (Putting this to 0 will disable it)
+#Range: > 0
+weight_generic = 15
+#Weight of obtaining Speedster powers when taking Compound V (Putting this to 0 will disable it)
+#Range: > 0
+weight_speedster = 10
+#Whether Speedster powers allow you to damage mobs while sprinting
+speedster_speed_attack = true
+#Weight of obtaining Water Powers when taking Compound V (Putting this to 0 will disable it)
+#Range: > 0
+weight_water_power = 10
+#Weight of obtaining Teleportation power when taking Compound V (Putting this to 0 will disable it)
+#Range: > 0
+weight_teleportation = 5
+#Weight of obtaining Atom Charging power (Projectile Explosion) when taking Compound V (Putting this to 0 will disable it)
+#Range: > 0
+weight_atom_charging = 5
+#Weight of obtaining Invisibility when taking Compound V (Putting this to 0 will disable it)
+#Range: > 0
+weight_invisibility = 5
+#Weight of obtaining Night Vision when taking Compound V (Putting this to 0 will disable it)
+#Range: > 0
+weight_night_vision = 5
+#Weight of obtaining Levitation-based flight when taking Compound V (Putting this to 0 will disable it)
+#Range: > 0
+weight_levitation = 5
+#Weight of obtaining Invincibility when taking Compound V (Putting this to 0 will disable it)
+#Range: > 0
+weight_invincible = 1
+

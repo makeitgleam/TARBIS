@@ -1,0 +1,83 @@
+{
+	id: "3602F483568B92BA"
+	loot_size: 1
+	order_index: 19
+	rewards: [
+		{
+			count: 4
+		}
+		{
+			count: 8
+		}
+		{
+			count: 10
+		}
+		{ item: "minecraft:enchanted_book" }
+		{ item: "minecraft:enchanted_book" }
+		{ item: "minecraft:enchanted_book" }
+		{ item: "minecraft:enchanted_book" }
+		{ item: "minecraft:enchanted_book" }
+		{ item: "minecraft:enchanted_book" }
+		{ item: "minecraft:enchanted_book" }
+		{
+			item: {
+				count: 1
+				id: "chipped:chisel"
+			}
+		}
+		{ item: "ironfurnaces:upgrade_copper" }
+		{
+			count: 64
+		}
+		{
+			item: {
+				Count: 1
+				id: "minecraft:diamond_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minecraft:iron_axe"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minecraft:iron_shovel"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			count: 4
+		}
+		{ item: "mekanism:basic_fluid_tank" }
+		{
+			count: 3
+		}
+		{ item: "minecraft:diamond" }
+		{
+			count: 2
+		}
+		{
+			count: 4
+		}
+		{ item: "mekanism:personal_chest" }
+		{
+			item: {
+				count: 1
+				id: "chisel:chisel"
+			}
+		}
+		{ item: "minecraft:lava_bucket" }
+	]
+	use_title: true
+}

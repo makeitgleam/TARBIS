@@ -1,0 +1,14 @@
+#Whether the Seer can aggro onto the player when within range
+seer_detects = false
+#Whether the Seer can affect non-sculk mobs
+seer_affects_non_sculk = false
+#Whether the Sculk Pearl causes infighting between mobs
+sculk_pearl_infighting = true
+#How long (in ticks) should the Sculk Pearl's confusion effect last?
+#Range: > 0
+sculk_pearl_confusion_duration = 300
+#Whether the bloater should attack all mobs or just players
+bloaters_attack_all_mobs = false
+#Whether the skitter should attack all mobs or just players
+skitters_attack_all_mobs = true
+

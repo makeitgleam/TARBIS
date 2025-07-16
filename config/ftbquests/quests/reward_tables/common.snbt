@@ -1,0 +1,189 @@
+{
+	id: "06C4634E81851A6C"
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{ item: "minecraft:fox_spawn_egg", weight: 5.0f }
+		{ item: "functionalstorage:copper_upgrade", weight: 5.0f }
+		{ item: "functionalstorage:oak_1", random_bonus: 2, weight: 7.0f }
+		{ item: "functionalstorage:void_upgrade", weight: 3.0f }
+		{ item: "functionalstorage:storage_controller" }
+		{ item: "waystones:waystone", weight: 3.0f }
+		{
+			count: 2
+			weight: 3.0f
+		}
+		{ item: "cookingforblockheads:sink", weight: 5.0f }
+		{ item: "ironfurnaces:augment_speed", weight: 5.0f }
+		{ item: "ironfurnaces:augment_factory", weight: 5.0f }
+		{ item: "ironfurnaces:item_spooky", weight: 3.0f }
+		{
+			count: 8
+			random_bonus: 8
+			weight: 5.0f
+		}
+		{ item: "minecraft:diamond", random_bonus: 2, weight: 3.0f }
+		{ item: "pipez:basic_upgrade", weight: 7.0f }
+		{ item: "mekanism:basic_tier_installer", weight: 3.0f }
+		{ item: "mekanism:upgrade_speed", weight: 3.0f }
+		{ item: "mekanism:upgrade_energy", weight: 3.0f }
+		{
+			item: {
+				count: 1
+				id: "productivebees:sturdy_bee_cage"
+			}
+			weight: 5.0f
+		}
+		{
+			item: {
+				count: 1
+				id: "modularrouters:modular_router"
+			}
+		}
+		{
+			count: 4
+			random_bonus: 4
+			weight: 7.0f
+		}
+		{
+			count: 2
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			count: 8
+			random_bonus: 8
+			weight: 5.0f
+		}
+		{ item: "mekanismgenerators:wind_generator", weight: 5.0f }
+		{
+			count: 4
+			random_bonus: 8
+			weight: 10.0f
+		}
+		{
+			count: 6
+			random_bonus: 6
+			weight: 7.0f
+		}
+		{ item: "minecraft:name_tag", weight: 3.0f }
+		{
+			item: {
+				Count: 1
+				id: "alltheores:copper_ore_hammer"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 5.0f
+		}
+		{ item: "minecraft:saddle", weight: 3.0f }
+		{ item: "minecraft:cat_spawn_egg", weight: 3.0f }
+		{ item: "minecraft:wolf_spawn_egg", weight: 5.0f }
+		{ item: "minecraft:parrot_spawn_egg", weight: 3.0f }
+		{
+			count: 3
+			random_bonus: 3
+			weight: 10.0f
+		}
+		{
+			count: 4
+			random_bonus: 4
+			weight: 7.0f
+		}
+		{
+			count: 2
+			random_bonus: 2
+			weight: 10.0f
+		}
+		{
+			count: 2
+			random_bonus: 2
+			weight: 10.0f
+		}
+		{
+			count: 3
+			random_bonus: 3
+			weight: 10.0f
+		}
+		{
+			count: 8
+			random_bonus: 8
+			weight: 15.0f
+		}
+		{
+			count: 4
+			random_bonus: 8
+			weight: 10.0f
+		}
+		{
+			count: 2
+			random_bonus: 2
+			weight: 3.0f
+		}
+		{
+			count: 4
+			random_bonus: 4
+			weight: 7.0f
+		}
+		{ item: "minecraft:blaze_rod", random_bonus: 1, weight: 3.0f }
+		{
+			count: 2
+			random_bonus: 1
+			weight: 3.0f
+		}
+		{ item: "minecraft:bucket", weight: 7.0f }
+		{ item: "functionalstorage:oak_2", random_bonus: 2, weight: 5.0f }
+		{ item: "functionalstorage:oak_4", random_bonus: 2, weight: 5.0f }
+		{ item: "ironfurnaces:iron_furnace", weight: 10.0f }
+		{ item: "ironfurnaces:gold_furnace", weight: 3.0f }
+		{
+			item: {
+				Count: 1
+				id: "alltheores:iron_ore_hammer"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 3.0f
+		}
+		{ item: "minecraft:honeycomb", random_bonus: 3, weight: 7.0f }
+		{ item: "minecraft:honey_bottle", random_bonus: 2, weight: 7.0f }
+		{
+			item: {
+				count: 1
+				id: "productivebees:honey_treat"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{ item: "minecraft:beehive", weight: 7.0f }
+		{
+			item: {
+				count: 1
+				id: "productivebees:advanced_oak_beehive"
+			}
+			weight: 5.0f
+		}
+		{ item: "ae2:flawless_budding_quartz" }
+		{
+			item: {
+				count: 1
+				id: "powah:magmator_basic"
+			}
+		}
+		{
+			item: {
+				count: 1
+				id: "powah:furnator_basic"
+			}
+		}
+		{
+			item: {
+				count: 1
+				id: "productivelib:upgrade_base"
+			}
+		}
+	]
+	use_title: true
+}

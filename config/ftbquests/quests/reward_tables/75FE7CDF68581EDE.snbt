@@ -1,0 +1,23 @@
+{
+	id: "75FE7CDF68581EDE"
+	loot_size: 1
+	order_index: 20
+	rewards: [
+		{
+			count: 6
+		}
+		{
+			count: 6
+		}
+		{
+			count: 6
+		}
+		{
+			count: 6
+		}
+		{
+			count: 6
+		}
+	]
+	use_title: true
+}

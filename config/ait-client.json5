@@ -1,0 +1,14 @@
+{
+	interiorHumVolume: 0.5,
+	customMenu: true,
+	showExperimentalWarning: false,
+	environmentProjector: true,
+	enableTardisBOTI: false,
+	shouldRenderBOTIInterior: false,
+	greenScreenBOTI: false,
+	showControlHitboxes: false,
+	renderDematParticles: true,
+	animateConsole: true,
+	animateDoors: true,
+	temperatureType: "CELSIUS"
+}

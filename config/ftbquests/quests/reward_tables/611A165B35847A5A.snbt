@@ -1,0 +1,19 @@
+{
+	id: "611A165B35847A5A"
+	loot_size: 1
+	order_index: 26
+	rewards: [
+		{
+			count: 5
+		}
+		{
+			count: 4
+		}
+		{
+			count: 10
+		}
+		{ item: "the_bumblezone:honeycomb_brood_block" }
+		{ item: "the_bumblezone:royal_jelly_bottle", weight: 0.05f }
+	]
+	use_title: true
+}
